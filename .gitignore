@@ -1,2 +1,4 @@
 .idea
-/data.csv
+/data/data.csv
+/data/predictions_air_quality.csv
+/data/processed_data_air_quality.csv
