@@ -10,6 +10,22 @@
 - работать с kaggle 
 - тестировать модель 
 - пользоваться методами статистического анализа на практике
+- делать выводы о применимости модели на практике
+
+В работе были использованы:
+- Модель Air Quality Prediction ([Kaggle](https://www.kaggle.com/code/hamedetezadi/air-quality-prediction)), в формате [ноутбука](https://colab.research.google.com/drive/14Tlqrmg76i7S33Gc5P5iFvjh7Ml2dXxB?usp=sharing)
+- Датасет  «СОСТОЯНИЕ ЗАГРЯЗНЕНИЯ АТМОСФЕРЫ В
+ ГОРОДАХ РОССИИ C 2007 ГОДА» - взят с сайта [Если быть точным](https://tochno.st/datasets/air_cities)
+
+## Список используемых библиотек
+
+- kagglehub
+- pandas
+- numpy
+- joblib
+- matplotlib
+- seaborn
+- scipy
 
 ## Инструкция по запуску проекта
 
